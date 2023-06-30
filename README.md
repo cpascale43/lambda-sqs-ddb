@@ -1,2 +1,2 @@
-# lambda-sqs-ddb
-Ingest logs into Panther via AWS Lambda, SQS and DynamoDB
+# pthr-ingest
+Custom ingestion examples in Panther using AWS
